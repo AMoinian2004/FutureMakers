@@ -1,15 +1,3 @@
-# FutureMakers
-
-This is a repository for the Suretart deep learning track for Armin.
-
-
-RESPONSES
-07/06/2021
-
-
-RESPONSES
-07/07/2021
-
 
 # FutureMakers GitHub Repository
 ## Responses:
