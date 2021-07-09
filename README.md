@@ -10,3 +10,5 @@
 power to visualize data without a Graphviz, Pandas, or other data
 analysis libraries.** 
 - This is false because Scikit-Learn is built on other packages like NumPy, Graphviz, and Pandas. Scikit is used for data mining and it requires other libraries to visualize that data.
+ - **Day 4 (07/09/21)**
+ - Deep learning could be used to identify tumors and cancers in brain scans. The specific deep learning algorithim that would need to be used for this is a CNN(Convolutional neural network). I picked this particular approach because the "neurons" in a CNN is aranged in such a way that they are able to recognize and process visual stimuli. I couldn't find a detailed data set for this problem, but I did find this image which includes multiple images: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3nA-oYMipzSgCv4Py3BMHCZHhT4adVtaWLw&usqp=CAU. 
