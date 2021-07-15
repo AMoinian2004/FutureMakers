@@ -19,6 +19,5 @@ analysis libraries.**
 - **Day 10 (07/15/21)**: 
  - **How do you think Machine Learning or AI concepts were utilized in the design of this game?**
  - Machine learning and AI is used to read through applicants resumes and will use a machine learning algorithim to decide wether those applicants should be hired. This AI is trained by reading the resumes of previous applicants and seeing if they were hired or rejected in order to train the neural network. 
- - **Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, an equitable? Please reflect on why you selected this specific biased model.
-**
+ - **Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, an equitable? Please reflect on why you selected this specific biased model.**
  - One biased model is Apples Face ID technology. I selected this because I read an article about how Face ID had a harder time recognizing certian demographics faces. This could be because Apple does not have a diverse workforce or because Apple did not train it with a diverse selection of faces. Apple could make this model more fair by training on a wider variety of faces.
