@@ -11,8 +11,14 @@ power to visualize data without a Graphviz, Pandas, or other data
 analysis libraries.** 
 - This is false because Scikit-Learn is built on other packages like NumPy, Graphviz, and Pandas. Scikit is used for data mining and it requires other libraries to visualize that data.
  - **Day 4 (07/09/21)**: Deep learning could be used to identify tumors and cancers in brain scans. The specific deep learning algorithim that would need to be used for this is a CNN(Convolutional neural network). I picked this particular approach because the "neurons" in a CNN is aranged in such a way that they are able to recognize and process visual stimuli. I couldn't find a detailed data set for this problem, but I did find this image which includes multiple images: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3nA-oYMipzSgCv4Py3BMHCZHhT4adVtaWLw&usqp=CAU. 
- - **Day 5 (07/12/21)**: 
+ - **Day 7 (07/12/21)**: 
  - **What are “Tensors” and what are they used for in Machine Learning?**
  - A tensor is an array of real numbers or strings. A one dimensional array of numbers like one scalar number is a tensor. Multidimensional arrays like vectors and matricies are also tensors. A tensor can contain the following data types: floats, ints, complex numbers, strings.
  - **What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?**
  - I noticed that the computations involve multiple steps. First, you have to model the nerual network, then run the neural network, then train the neural network, then evauluate the results and then you can run it again if needed. I always assumed machine learning was a one step process programming wise. 
+- **Day 10 (07/15/21)**: 
+ - **How do you think Machine Learning or AI concepts were utilized in the design of this game?**
+ - Machine learning and AI is used to read through applicants resumes and will use a machine learning algorithim to decide wether those applicants should be hired. This AI is trained by reading the resumes of previous applicants and seeing if they were hired or rejected in order to train the neural network. 
+ - **Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, an equitable? Please reflect on why you selected this specific biased model.
+**
+ - One biased model is Apples Face ID technology. I selected this because I read an article about how Face ID had a harder time recognizing certian demographics faces. This could be because Apple does not have a diverse workforce or because Apple did not train it with a diverse selection of faces. Apple could make this model more fair by training on a wider variety of faces.
