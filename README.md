@@ -31,3 +31,5 @@ analysis libraries.**
  - A Fully Connected Neural Network is a neural network in which the layers of the network are completley connected to each other. The individual neurons in each layer are connected to all the individual neurons in the other layer. This type of network could be adventagous because you don't need to make predictions or assumptions about the input data. But, the disadvantages of this network is that they have a large number of weights that require a very long time to train. They have a broad amount of applications. 
  - In a Convolutional Neural Network, it is assumed that the inputs are images. The layers in a Convolutional Neural Network have different purposes, unlike a FCNN. The layers in a CNN run much faster than in a FCNN. CNNs are mainly used for image data sets.
  - https://github.com/AMoinian2004/FutureMakers/blob/main/day11task.ipynb
+ - **Day 19 (07/19/21)**: 
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/day14actionitem.ipynb
