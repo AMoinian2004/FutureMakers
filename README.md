@@ -16,8 +16,18 @@ analysis libraries.**
  - A tensor is an array of real numbers or strings. A one dimensional array of numbers like one scalar number is a tensor. Multidimensional arrays like vectors and matricies are also tensors. A tensor can contain the following data types: floats, ints, complex numbers, strings.
  - **What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?**
  - I noticed that the computations involve multiple steps. First, you have to model the nerual network, then run the neural network, then train the neural network, then evauluate the results and then you can run it again if needed. I always assumed machine learning was a one step process programming wise. 
+-  **Day 8 (07/13/21)**: 
+- https://github.com/AMoinian2004/FutureMakers/blob/main/day8actionitem.ipynb
+-  **Day 9 (07/14/21)**: 
+- https://github.com/AMoinian2004/FutureMakers/blob/main/day9-actionitem.ipynb
+-  The model with the extended data has the same accuracy as the model in the Kaggle tutorial. But, there are more epochs since there is more data, and the accuracy increases with the epochs. 
 - **Day 10 (07/15/21)**: 
  - **How do you think Machine Learning or AI concepts were utilized in the design of this game?**
  - Machine learning and AI is used to read through applicants resumes and will use a machine learning algorithim to decide wether those applicants should be hired. This AI is trained by reading the resumes of previous applicants and seeing if they were hired or rejected in order to train the neural network. 
  - **Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, an equitable? Please reflect on why you selected this specific biased model.**
  - One biased model is Apples Face ID technology. I selected this because I read an article about how Face ID had a harder time recognizing certian demographics faces. This could be because Apple does not have a diverse workforce or because Apple did not train it with a diverse selection of faces. Apple could make this model more fair by training on a wider variety of faces.
+ - **Day 11 (07/16/21)**: 
+ - Succinctly list the differences between a Convolutional Neural Network and a Fully Connected Neural Network. Discuss layers and their role, and applications of each of the two types of architectures in the Responses section of your README. Share the link with your mentor on your Localized team channel.
+ - A Fully Connected Neural Network is a neural network in which the layers of the network are completley connected to each other. The individual neurons in each layer are connected to all the individual neurons in the other layer. This type of network could be adventagous because you don't need to make predictions or assumptions about the input data. But, the disadvantages of this network is that they have a large number of weights that require a very long time to train. They have a broad amount of applications. 
+ - In a Convolutional Neural Network, it is assumed that the inputs are images. The layers in a Convolutional Neural Network have different purposes, unlike a FCNN. The layers in a CNN run much faster than in a FCNN. CNNs are mainly used for image data sets.
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/day11task.ipynb
