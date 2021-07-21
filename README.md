@@ -33,3 +33,7 @@ analysis libraries.**
  - https://github.com/AMoinian2004/FutureMakers/blob/main/day11task.ipynb
  - **Day 14 (07/19/21)**: 
  - https://github.com/AMoinian2004/FutureMakers/blob/main/day14actionitem.ipynb
+ -  **Day 15 (07/20/21)**:
+ -  **Write a reflection piece on the advantages of the Rectified Linear activation function, along with one use case**
+ -  Adavntages of  Rectified Linear activation function: You will not run into as many problems when training because the vanshing gradient issue will not occur. It only requires the max() function to implement, so its not hard to implement. 
+ -  One use of  Rectified Linear activation functions is with image data combined with a CNN
