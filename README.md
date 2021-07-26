@@ -37,3 +37,11 @@ analysis libraries.**
  -  **Write a reflection piece on the advantages of the Rectified Linear activation function, along with one use case**
  -  Adavntages of  Rectified Linear activation function: You will not run into as many problems when training because the vanshing gradient issue will not occur. It only requires the max() function to implement, so its not hard to implement. 
  -  One use of  Rectified Linear activation functions is with image data combined with a CNN
+ - **Day 16 (07/21/21)**:
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/day16actionitem.ipynb
+ - I don't think my model is going to be very accurate at predicting age and gender. This is because it will not be good at predicting ethnicity because of the discrepencies in pictures between differet entichies.
+ - **Day 17 (07/22/21)**:
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/Day17_Action_Item.ipynb
+ - **Day 18 (07/23/21)**:
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/day18actionitem.ipynb
+ - Changing the loss to regression based functions led to a more stable accuracy graph. It stablized the loss instead of having the loss decrease.
