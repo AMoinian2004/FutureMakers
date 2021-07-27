@@ -45,3 +45,6 @@ analysis libraries.**
  - **Day 18 (07/23/21)**:
  - https://github.com/AMoinian2004/FutureMakers/blob/main/day18actionitem.ipynb
  - Changing the loss to regression based functions led to a more stable accuracy graph. It stablized the loss instead of having the loss decrease.
+ -  **Day 21 (07/24/21)**:
+ - Upsampling: https://github.com/AMoinian2004/FutureMakers/blob/main/day-21-action-item-part-1-upsampling.ipynb
+ - Autoencoder: https://github.com/AMoinian2004/FutureMakers/blob/main/day-21-action-item-part-2-autoencoder.ipynb
