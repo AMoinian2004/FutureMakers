@@ -48,3 +48,12 @@ analysis libraries.**
  -  **Day 21 (07/24/21)**:
  - Upsampling: https://github.com/AMoinian2004/FutureMakers/blob/main/day-21-action-item-part-1-upsampling.ipynb
  - Autoencoder: https://github.com/AMoinian2004/FutureMakers/blob/main/day-21-action-item-part-2-autoencoder.ipynb
+ - **Day 22 (07/27/21)**:
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/Day22ActionItem.ipynb
+ - **Day 23 (07/28/21)**:
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/Day23ActionItem.ipynb
+ - GPT-2 models are trained with data from social media. This data may be innacturate or wrong.
+ - Open AI does not reveal the code or the algorithims for GPT-2. So, it is hard to verify the legitimacy of the model.
+ - **Day 24 (07/29/21)**:
+ - https://github.com/AMoinian2004/FutureMakers/blob/main/Day24ActionItem.ipynb
+ - 
